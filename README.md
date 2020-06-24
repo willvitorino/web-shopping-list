@@ -1,2 +1,3 @@
-# web-shopping-list
+# Web Shopping List
+
 Lista de compras online.
